@@ -252,12 +252,12 @@ msgstr ""
 
 #: config/./map.php:173 config/./map.php:219
 msgid "Column"
-msgstr "COlonna"
+msgstr "Colonna"
 
 #: config/./map.php:200 config/./map.php:252
 #: include/./templates/params/column_offset/template.tpl.php:20
 msgid "Width"
-msgstr ""
+msgstr "Larghezza"
 
 #: config/./map.php:203 config/./map.php:211 config/./map.php:255
 msgid "Width & Responsiveness"
@@ -270,7 +270,7 @@ msgstr "Seleziona numero di colonne."
 
 #: config/./map.php:209
 msgid "Responsiveness"
-msgstr ""
+msgstr "Responsive"
 
 #: config/./map.php:212
 msgid ""
@@ -333,7 +333,7 @@ msgstr "Colore personalizzato"
 
 #: config/./map.php:358
 msgid "Select border color for your element."
-msgstr ""
+msgstr "Selezionare colore bordo per l'elemento."
 
 #: config/./map.php:366 config/./map.php:454 config/./map.php:508
 #: config/./map.php:1894 config/./map.php:3435
